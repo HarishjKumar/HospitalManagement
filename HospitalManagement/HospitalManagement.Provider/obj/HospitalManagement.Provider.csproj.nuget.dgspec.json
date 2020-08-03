@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Hospital Management\\HospitalManagement\\HospitalManagement.Provider\\HospitalManagement.Provider.csproj": {}
+  },
+  "projects": {
+    "D:\\Hospital Management\\HospitalManagement\\HospitalManagement.DataAccess\\HospitalManagement.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Hospital Management\\HospitalManagement\\HospitalManagement.DataAccess\\HospitalManagement.DataAccess.csproj",
+        "projectName": "HospitalManagement.DataAccess",
+        "projectPath": "D:\\Hospital Management\\HospitalManagement\\HospitalManagement.DataAccess\\HospitalManagement.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\harishk\\.nuget\\packages\\",
+        "outputPath": "D:\\Hospital Management\\HospitalManagement\\HospitalManagement.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\harishk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Hospital Management\\HospitalManagement\\HospitalManagement.Provider\\HospitalManagement.Provider.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Hospital Management\\HospitalManagement\\HospitalManagement.Provider\\HospitalManagement.Provider.csproj",
+        "projectName": "HospitalManagement.Provider",
+        "projectPath": "D:\\Hospital Management\\HospitalManagement\\HospitalManagement.Provider\\HospitalManagement.Provider.csproj",
+        "packagesPath": "C:\\Users\\harishk\\.nuget\\packages\\",
+        "outputPath": "D:\\Hospital Management\\HospitalManagement\\HospitalManagement.Provider\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\harishk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Hospital Management\\HospitalManagement\\HospitalManagement.DataAccess\\HospitalManagement.DataAccess.csproj": {
+                "projectPath": "D:\\Hospital Management\\HospitalManagement\\HospitalManagement.DataAccess\\HospitalManagement.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

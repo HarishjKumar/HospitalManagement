@@ -1,0 +1,9 @@
+D:\Hospital Management\HospitalManagement\HospitalManagement.DataAccess\bin\Debug\netstandard2.0\HospitalManagement.DataAccess.deps.json
+D:\Hospital Management\HospitalManagement\HospitalManagement.DataAccess\bin\Debug\netstandard2.0\HospitalManagement.DataAccess.dll
+D:\Hospital Management\HospitalManagement\HospitalManagement.DataAccess\obj\Debug\netstandard2.0\HospitalManagement.DataAccess.csprojAssemblyReference.cache
+D:\Hospital Management\HospitalManagement\HospitalManagement.DataAccess\obj\Debug\netstandard2.0\HospitalManagement.DataAccess.AssemblyInfoInputs.cache
+D:\Hospital Management\HospitalManagement\HospitalManagement.DataAccess\obj\Debug\netstandard2.0\HospitalManagement.DataAccess.AssemblyInfo.cs
+D:\Hospital Management\HospitalManagement\HospitalManagement.DataAccess\obj\Debug\netstandard2.0\HospitalManagement.DataAccess.csproj.CoreCompileInputs.cache
+D:\Hospital Management\HospitalManagement\HospitalManagement.DataAccess\bin\Debug\netstandard2.0\HospitalManagement.DataAccess.pdb
+D:\Hospital Management\HospitalManagement\HospitalManagement.DataAccess\obj\Debug\netstandard2.0\HospitalManagement.DataAccess.dll
+D:\Hospital Management\HospitalManagement\HospitalManagement.DataAccess\obj\Debug\netstandard2.0\HospitalManagement.DataAccess.pdb
